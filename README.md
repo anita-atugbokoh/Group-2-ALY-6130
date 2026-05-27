@@ -45,13 +45,12 @@ Conclusion
 The acquisition strategic opportunities for Canada Life but also introduces operational, technological and regulatory risks that require careful management through an effective ERM framework.
 
 References
-Government of Canada. (2000). Personal Information Protection and Electronic Documents Act (PIPEDA), S.C. 2000, c. 5. Justice Laws Website. https://laws-lois.justice.gc.ca
-Kaplan, R. S., & Norton, D. P. (1996). The balanced scorecard: Translating strategy into action. Harvard Business School Press.
-KPMG Canada. (2026). Nation-building to spur Canadian M&A in 2026. KPMG. https://kpmg.com/ca/en/home/media/press-releases/2026/01/nation-building-to-spur-canadian-mergers-acquisitions.html
 Canada Life. (2026). About Canada Life. Canada Life Financial Corporation. https://www.canadalife.com
 Canada Life. (2026). Canada Life acquires Santé Circle Health. Canada Life Financial Corporation. https://www.canadalife.com
 Committee of Sponsoring Organizations of the Treadway Commission (COSO). (2017). Enterprise risk management: Integrating with strategy and performance. COSO. https://www.coso.org
-
+Government of Canada. (2000). Personal Information Protection and Electronic Documents Act (PIPEDA), S.C. 2000, c. 5. Justice Laws Website. https://laws-lois.justice.gc.ca
+Kaplan, R. S., & Norton, D. P. (1996). The balanced scorecard: Translating strategy into action. Harvard Business School Press.
+KPMG Canada. (2026). Nation-building to spur Canadian M&A in 2026. KPMG. https://kpmg.com/ca/en/home/media/press-releases/2026/01/nation-building-to-spur-canadian-mergers-acquisitions.html
 Parmenter, D. (2015). Key performance indicators: Developing, implementing, and using winning KPIs (3rd ed.). Wiley.
 PwC Canada. (2026). 2026 Canadian M&A outlook. PricewaterhouseCoopers. https://www.pwc.com/ca/en/services/deals/trends.html
 Sobel, P. J., & Reding, K. F. (2004). Aligning corporate governance with enterprise risk management. Management Accounting Quarterly, 5(2), 29–37.
