@@ -100,7 +100,7 @@ By integrating Santé Circle Health’s case data with Canada Life’s actuarial
 
 4. Expansion into New Healthcare Services
 
-The acquisition creates opportunities for Canada Life to ex
+The acquisition creates opportunities for Canada Life to expand into additional healthcare and wellness service areas while strengthening its competitive position within the Canadian healthcare and insurance industry.
 
 
 WEAKNESSES
