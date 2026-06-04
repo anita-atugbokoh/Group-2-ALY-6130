@@ -77,11 +77,32 @@ Conclusion
 This risk requires ongoing monitoring because aggressive competitor pricing can significantly affect profitability and market competitiveness. By strengthening its value proposition, improving operational efficiency, and investing in innovative healthcare solutions, Canada Life can reduce the impact of pricing pressure while maintaining sustainable profit margins and long-term growth.
 
 
-###Risk 3 – Positive Risk
-Paste Doris's completed Risk 3 section here.
+Risk 3 – Positive Risk (Opportunity)
 
-###Conclusion
-The acquisition of Santé Circle Health presents both risks and opportunities for Canada Life. Effective monitoring, mitigation strategies, and continuous evaluation of key risk indicators will help the organization maintain its competitive position while maximizing growth opportunities.
+Problem Statement
+Demand for disability management services, workplace wellness programs, and employee health solutions continues to grow across Canada. This creates an opportunity for Canada Life to expand its customer base and strengthen its position within the healthcare market.
+
+Risk Statement
+The opportunity to increase market share caused by growing demand for disability management and workplace wellness services resulting in higher revenue growth and stronger competitive positioning.
+
+Impact Statement
+If Canada Life successfully captures this opportunity, the company may increase revenues, attract new customers, strengthen customer relationships, and improve its overall competitive position in the healthcare and insurance industries.
+
+Key Risk Indicator (KRI)
+Market Growth Rate
+Traffic Light Thresholds
+Level	Threshold
+Green	Market growth above 8%
+Amber	Market growth between 5% and 8%
+Red	Market growth below 5%
+
+Conclusion
+The acquisition of Santé Circle Health creates both challenges and opportunities for Canada Life. Competitive pressures from digital healthcare providers and aggressive pricing strategies may negatively affect growth and profitability if not carefully managed. At the same time, increasing demand for disability management and workplace wellness services presents a significant opportunity for expansion. By monitoring the selected KRIs and responding appropriately when threshold levels are reached, Canada Life can better manage these risks and support long-term organizational success.
 
 References
-Paste the group's references here.
+Canada Life. (2026). About Canada Life. Canada Life Financial Corporation.
+Canada Life. (2026). Canada Life acquires Santé Circle Health. Canada Life Financial Corporation.
+Committee of Sponsoring Organizations of the Treadway Commission (COSO). (2017). Enterprise risk management: Integrating with strategy and performance. COSO.
+Parmenter, D. (2015). Key performance indicators: Developing, implementing, and using winning KPIs (3rd ed.). Wiley.
+PwC Canada. (2026). Canadian mergers and acquisitions outlook. PricewaterhouseCoopers.
+
