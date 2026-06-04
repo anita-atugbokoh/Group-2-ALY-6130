@@ -1,6 +1,6 @@
 ## Module 2 Risk Identification
 Canada Life Acquisition of Santé Circle Health
-Group Members
+###Group Members
 Abigail Dabanka-Frimpong
 Anita Atugbokoh
 Doris Margaret Zotu-Osei
