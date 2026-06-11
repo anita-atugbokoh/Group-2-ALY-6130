@@ -1,0 +1,166 @@
+ALY 6130 – RISK MANAGEMENT ANALYTICS
+MODULE 3 ASSIGNMENT
+CANADA LIFE ACQUISITION OF SANTÉ CIRCLE HEALTH
+GROUP 2, PREPARED BY
+
+ANITA ATUGBOKOH
+ABIGAIL DABANKA-FRIMPONG
+DORIS MARGARET ZOTU-OSEI
+INSTRUCTOR:  ABEBA NIGUSSIE TURI
+DATE SUBMITTED:  June 10, 2026
+ 
+###Introduction
+This assignment required our group to apply an Enterprise Risk Management (ERM) framework to a real-world acquisition scenario: Canada Life's 2026 acquisition of Santé Circle Health. The aim was to identify and assess key risks associated with the transaction and develop a structured Risk Calculation Sheet, a scored Risk Register, and Risk Heat Maps to support risk analysis and decision making.
+For an acquisition of this scale, understanding and managing risk is essential. Mergers and acquisitions are among the most complex strategic initiatives organizations undertake, and research suggests that between 70% and 90% fail to achieve their expected value for shareholders (Bain & Company, 2024). As a result, a comprehensive risk assessment is necessary to identify potential challenges that could affect the success of the integration.
+Our analysis identified risks across six categories: financial, operational, competitive, reputational, technical, and legal. Each risk was evaluated using a 1-to-5 scale for both likelihood and impact. The overall risk score was calculated by multiplying the likelihood and impact ratings, resulting in a score ranging from 1 to 25. Risks scoring between 15 and 25 were classified as High priority, those scoring between 9 and 14 as Medium priority, and those scoring between 1 and 8 as Low priority. The risks were then plotted on a heat map using likelihood on the vertical axis and impact on the horizontal axis to provide a visual representation of the organizations overall risk exposure.
+The report is organized into four main sections. The first section presents the Risk Calculation Sheet and outlines the identified risks across all six categories. The second section explains the risk scoring methodology and includes the complete 18-risk register. The third section presents the Risk Heat Maps developed in Excel. Finally, the report concludes with key findings and recommended controls designed to support effective risk management throughout the acquisition and integration process.
+Problem Statement
+Canada Life's acquisition of Santé Circle Health is a strategically sound move, but it brings with it a set of risks that the organisation has not previously faced at this scale. Entering active healthcare service delivery means absorbing new operational complexity, a more sensitive data environment, and a competitive landscape that includes digital health disruptors with lower cost structures and faster innovation cycles.
+Three pressures frame the risk landscape. Integration history is not encouraging, 70 to 90 percent of M&A deals fail to create shareholder value, and only 30 percent achieve projected synergy targets (Bain & Company, 2024). At the same time, Quebec's Law 25, fully in force since 2025, imposes strict health data privacy obligations with penalties reaching up to CAD $25 million or four percent of global revenue (OneTrust, 2025). And while Canada Life brings financial strength to this deal, Manulife's Vitality platform and Sun Life's digital health investments mean the merged entity enters the healthcare services market at a competitive disadvantage it will need to close quickly (KASE Insurance, 2026; HelloSafe, 2025).
+This assessment identifies and scores 18 material risks across six categories using a 1-to-5 likelihood and impact scale, consistent with the COSO ERM framework. The goal is not to argue against the acquisition but to ensure that the risks it creates are understood clearly enough to be managed well.
+
+###Risk Calculation Sheet
+The risk identification process examined six dimensions of enterprise risk: financial, operational, competitive, reputational, technical, and legal/regulatory. Up to nine risks were identified within each category, drawing on Canada Life's corporate disclosures, current market intelligence, and regulatory developments. 
+Financial
+Santé Circle may have been overvalued at purchase
+Hidden financial obligations may increase costs unexpectedly
+Cross selling Canada Life products to Santé Circle clients may be harder than expected
+Absorbing Santé Circle's risk portfolio will likely raise reinsurance costs
+Maintaining two IT roadmaps is straining the capital budget
+Unifying both platforms may cost significantly more than budgeted
+
+Operational
+Unclear roles are slowing down day-to-day work
+Key wellness staff may leave rather than adapt to a corporate environment
+Poor team alignment could lead to inconsistent client service
+Running two systems simultaneously increases costs and creates uneven experiences
+Poor project communication could cause delays and duplicated work
+Cultural differences may cause friction between the two workforces
+Without proper training, staff and clients may be slow to adopt new integrated tools
+Without shared KPIs, measuring integration progress will be difficult
+
+Competitive
+Long term clients may switch to competitors post merger
+Competitors may actively target Santé Circle clients during the transition
+Large corporate clients may delay renewals amid uncertainty about the merger
+Competitors may lower prices or run targeted campaigns in response to Canada Life's growth
+Santé Circle's boutique model may not scale easily to a national client base
+A slow integration could cause Canada Life to miss Indigenous community health opportunities
+
+Reputational
+Service disruptions could erode policyholder confidence
+Past service complaints from Santé Circle could surface and damage reputation
+Brokers loyal to Santé Circle may stop recommending the merged entity
+Announcing layoffs during integration may attract negative media coverage
+Clients accustomed to Santé Circle's personal approach may feel overlooked at scale
+Clients in regions with local Santé Circle ties may feel the community connection is lost
+Clients who valued Santé Circle's smaller size may publicly express dissatisfaction
+
+Technical
+Santé Circle's health data models may not be reliable for Canada Life's underwriting
+A poor cross platform experience could frustrate clients and increase complaints
+System downtime during peak renewal periods could create large operational backlogs
+Some AI triage tools from Santé Circle may not meet Health Canada standards
+Without a shared data governance framework, performance reporting will be inconsistent
+Cloud hosting of combined client data may raise provincial data residency concerns
+
+Legal 
+Canada Life's larger market share may attract Competition Bureau scrutiny
+Disputes over jointly developed IP could delay new services
+Wellness programmes without consent processes may expose Canada Life to claims
+Sharing client health data across provinces without consent could violate privacy law
+Differences in HR policies could lead to employment law violations
+Poorly reviewed indemnity clauses may leave Canada Life liable for Santé Circle's past claims
+
+###Risk Calculation and Scoring
+Scoring Methodology
+Each risk is scored on a 1-to-5 scale for both likelihood and impact. The risk score is the product of the two (Likelihood × Impact), giving a range of 1 to 25. Risks scoring 15 to 25 are classified as High priority, 9 to 14 as Medium, and 1 to 8 as Low. 
+Scoring Scale Definitions
+Score	Likelihood	Impact	Likelihood Definition	Impact Definition
+The risk assessment uses a five-point scale to evaluate both likelihood and impact.
+
+Score 1 – Rare / Insignificant: A risk is considered rare when it is highly unlikely to occur because strong controls are already in place. If it does occur, the impact would be insignificant, resulting only in minor inconvenience with no material financial or reputational consequences.
+Score 2 – Unlikely / Minor: A risk is considered unlikely when it may occur occasionally under adverse conditions. The impact would be minor, causing a small financial loss and limited reputational effects.
+Score 3 – Possible / Moderate:A risk is rated as possible when there is a realistic chance of occurrence under current conditions. The impact would be moderate, leading to a manageable financial loss and a moderate reputational effect.
+Score 4 – Likely / Major:A risk is considered likely when it is more likely than not to occur given the current risk environment. The impact would be major, resulting in significant revenue loss and material reputational or regulatory consequences.
+Score 5 – Almost Certain / Catastrophic: A risk is rated as almost certain when it is expected to occur without strong intervention or mitigation measures. The impact would be catastrophic, potentially causing severe financial losses and significant reputational or regulatory damage that could threaten the organizations operations.
+
+Risk Scoring Results
+A table is built to presents all 18 prioritised risks with full scoring, consequence statements, assigned owners, and recommended mitigations, grouped by category.
+
+###Risk Register
+
+Financial Risks
+When you look at the financial risks tied to this acquisition, three stand out as the ones that need the most attention. The first is the possibility of a goodwill write-down if the synergies Canada Life is counting on simply don't materialize. If that happens, the financial hit would show up as lower revenue and reduced profitability not a great outcome after a major acquisition. This one is rated high with a risk score of 16, and the best way to get ahead of it is through an independent valuation, a phased earnout structure, and a synergy tracking dashboard that the CFO monitors closely. A related worry is that undisclosed liabilities within Santé Circle Health surface after the deal closes and inflate costs in ways that weren't planned for. That kind of surprise eats into investment capacity and slows growth, which is why comprehensive due diligence, representations and warranties insurance, and an escrow holdback arrangement are so important before the ink dries — this one sits at a high risk score of 15 and is jointly owned by the CFO and Legal team. The biggest financial risk of all, though, is the possibility that the cross-selling revenue synergies that make this acquisition look so attractive on paper fall short of what was projected. With a risk score of 20 — the highest in the entire register — this risk reflects the reality that convincing Canada Life's existing group benefits clients to adopt Santé Circle Health's services isn't guaranteed. A well-thought-out cross-sell playbook, a broker incentive program, and an aggressive 90-day client outreach campaign led by the Chief Revenue Officer are what stand between a successful integration and a disappointing one.
+
+Operational Risks
+On the operational side, the risk that keeps coming up in acquisition scenarios like this one is talent loss and for good reason. Santé Circle Health's clinical staff carry the institutional knowledge and client relationships that make the business worth acquiring in the first place. If those people leave because the culture shifts or the uncertainty of the transition becomes too much, Canada Life ends up with infrastructure but not expertise. This risk scores 16 and is rated high, and the response needs to be proactive — retention bonuses, cultural integration workshops, and a genuine commitment to preserving the flexible working arrangements that Santé Circle Health's staff are used to, all under the CHRO's watch. Claims processing errors during platform migration are also a real concern, though this one sits at a more moderate score of 9. The transition period is when mistakes are most likely to happen, so running a parallel processing period alongside the new system, standardizing operating procedures, and having a rollback plan ready are all sensible precautions for the COO and IT team to have in place. Benefits administration misalignment is another moderate risk at 12 — if the two organizations' systems aren't properly reconciled, large group clients could start looking elsewhere, which is exactly the kind of quiet revenue erosion that's easy to miss until it's already happened. A client continuity plan and dedicated relationship managers go a long way toward preventing that.
+
+Competitive Risks
+The competitive environment Canada Life is stepping into with this acquisition is more crowded than it might appear at first glance. The most immediate competitive threat is that Manulife and Sun Life who are already well-established in the group benefits space accelerate their digital health bundling capabilities and get there before Canada Life does. If that happens, Canada Life starts losing group benefits RFPs before it even has a chance to showcase what the Santé Circle Health acquisition adds to its offering. Rated high at a score of 16, this is a risk that demands urgency, accelerating the analytics roadmap, building an integrated wellness proposition, and conducting a thorough pricing review are all on the Chief Strategy Officer's plate. The telehealth disruptor risk is a bit different in character these are newer, faster-moving companies that can undercut Canada Life on price, particularly in the SME market where margins are already thinner. Rated moderate at 12, this one calls for regular price benchmarking and the development of a modular digital-first service tier that can compete without eroding the core business. And then there's the transition window risk, the period right after the deal closes is when Canada Life is most vulnerable to competitors swooping in and making a pitch to Santé Circle Health's existing clients. Day-one client communications and transition-period loyalty incentives, managed by the Chief Revenue Officer, are the best defense against that.
+
+Reputational Risks
+Of all the risk categories in this register, reputational risks are probably the ones that keep the leadership team up at night and for good reason. A personal health information breach is the nightmare scenario. Santé Circle Health handles deeply sensitive clinical data, and if that data is compromised during the integration, the consequences go well beyond a regulatory fine though those alone could reach CAD $25 million. The real damage is the erosion of client trust, which is much harder to rebuild than a balance sheet. This risk scores 15 and is rated high, and the controls need to be airtight role-based access controls, AES-256 encryption, around-the-clock Security Operations Centre monitoring, annual penetration testing, and Privacy Impact Assessments, all jointly owned by the CISO and Legal team. Negative media coverage from layoffs or integration disruption is a more manageable reputational risk at a moderate score of 9, but it's still worth taking seriously during a transition period when brokers and clients are paying close attention to how Canada Life handles things. A proactive communications strategy and dedicated media relations function go a long way toward controlling that narrative. Broker network withdrawal is similarly moderate at 9 — if brokers lose confidence in Canada Life during the transition, the impact on new business referrals could linger long after the integration is complete. A broker engagement roadshow, competitive overrides, and a dedicated support desk managed by the Chief Distribution Officer are the right moves here.
+
+Technical Risks
+The technical risks in this acquisition are significant, and the most urgent one is legacy system incompatibility. Canada Life and Santé Circle Health have built their technology stacks independently over many years, and getting those systems to talk to each other reliably is genuinely hard. If it goes wrong, the result isn't just an IT headache it's operational downtime and disruption to the clinical services that Santé Circle Health's clients depend on. Rated high at a score of 16, this risk needs to be tackled before the deal closes through thorough IT due diligence, the development of an API integration layer, and a phased migration roadmap with clear checkpoints, all owned by the CTO and IT Project Management Office. Predictive model drift is a subtler but still meaningful risk at a moderate score of 9 if the underwriting models that Canada Life relies on for claims decisions start to drift after the integration, the accuracy of those decisions degrades, and loss ratios start climbing before anyone notices. A model validation framework and quarterly recalibration process managed by the Chief Actuary and CTO are the right safeguards. Third-party health app integrations round out the technical risk picture at a moderate score of 12 — every new integration point is another potential entry point for a cyberattack, and in a healthcare context that means PHI exposure. Third-party risk management assessments, API gateway controls, and regular penetration testing under the CISO's oversight are essential.
+
+Legal and Regulatory Risks
+The legal and regulatory risks here are real but manageable if Canada Life gets ahead of them early. The most serious one is non-compliance with Quebec's Law 25 and PIPEDA in how personal health information is handled post-acquisition. This isn't a risk to take lightly — penalties can reach CAD $25 million or 4% of global revenue, and there's class-action exposure on top of that. Rated high at a score of 15, this risk demands a comprehensive Data Governance Framework, mandatory Privacy Impact Assessments, and a full compliance audit across both PIPEDA and Law 25, with the Data Protection Officer and General Counsel sharing ownership. Regulatory delay or conditions from OSFI or the Competition Bureau is a lower probability risk at a score of 8, but the potential consequences such as deal delays, divestiture requirements, or operational restrictions are significant enough that early engagement with regulatory counsel and a pre-filing competitive market analysis are well worth the investment. Employment law violations from HR policy misalignment between the two organizations round out the legal risk picture at a low score of 6. Wrongful dismissal claims and provincial employment standards breaches are avoidable with a thorough legal review of all employment contracts, a harmonized HR policy, and ongoing employment law counsel all managed by the CHRO and Legal team.
+
+## Updated Heat Map Analysis
+
+Following the completion of the Risk Calculation Sheet and Risk Register, the Risk Heat Map has been refined using the finalized likelihood and impact scores for the Canada Life acquisition of Santé Circle Health.
+
+### Risk Classification Summary
+
+The risk assessment identified risks across financial, operational, competitive, reputational, technical, and legal/regulatory categories. Based on the established scoring framework:
+
+| Risk Level | Score Range | Color |
+|------------|------------|--------|
+| Low | 1–8 | Green |
+| Medium | 9–14 | Yellow |
+| High | 15–25 | Red |
+
+### Preliminary Heat Map Findings
+
+Based on the current risk assessment, several risks are expected to fall within the High-Risk category and will require immediate management attention.
+
+Key high-priority risks include:
+
+- Cross-selling revenue synergies failing to meet projections.
+- Goodwill write-down resulting from unrealized acquisition benefits.
+- Loss of key Santé Circle Health employees during integration.
+- Competitive pressure from established insurers and digital healthcare providers.
+- Technology integration challenges between Canada Life and Santé Circle Health systems.
+- Privacy, data governance, and regulatory compliance risks.
+
+These risks are expected to occupy the upper-right section of the heat map where both likelihood and impact are high.
+
+### Heat Map Interpretation
+
+The preliminary analysis indicates that Canada Life’s greatest exposure is concentrated in competitive, operational, technical, and legal/regulatory risk categories. The acquisition introduces opportunities for growth; however, successful integration will depend on effective change management, employee retention, technology modernization, regulatory compliance, and customer retention strategies.
+
+The heat map will allow management to quickly identify risk priorities and allocate resources toward the most significant threats facing the organization.
+
+### Alignment with Group Deliverables
+
+The Risk Heat Map will be developed using:
+
+- Risk scores from the Risk Calculation Sheet.
+- Risk descriptions and mitigation strategies from the Risk Register.
+- High, Medium, and Low thresholds established by the project team.
+
+This ensures consistency across all Module 3 deliverables and supports a comprehensive risk assessment process.
+
+### Next Steps
+
+The final heat map will be created in Excel using the validated likelihood and impact scores from the Risk Calculation Sheet. Risks will be plotted according to their scores and categorized using the approved threshold ranges. The completed heat map will be included in the final Module 3 submission.
+
+## References
+
+Canada Life. (2025). *Annual report 2024*. Canada Life Assurance Company.
+
+Government of Canada. (2025). *Personal Information Protection and Electronic Documents Act (PIPEDA)*. https://www.priv.gc.ca
+
+Santé Circle Health. (2025). *Company overview and healthcare services*. https://santecirclehealth.com
