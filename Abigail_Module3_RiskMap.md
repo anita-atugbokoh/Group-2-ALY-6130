@@ -1,29 +1,21 @@
 
-Module 3 Risk Assessment
-Risk Heat Map Development
-The purpose of the risk heat map is to visually represent the organization's risks based on their likelihood and impact scores. A risk heat map helps management identify which risks require immediate attention and which risks can be monitored over time.
-For Canada Life's acquisition of Santé Circle Health, the heat map will be developed using the risk scores generated from the Risk Calculation Sheet. Each risk will be plotted according to its likelihood score and impact score.
-Preliminary Risk Categories
-The following risk categories will be included in the heat map:
-Financial Risks
-Competitive Risks
-Operational Risks
-Technology Risks
-Legal and Regulatory Risks
-Strategic Risks
-Proposed Risk Thresholds
-Risk Level	Score Range
-Low	1–8
-Medium	9–14
-High	15–25
-Heat Map Structure
-The heat map will use:
-Likelihood on the Y-axis
-Impact on the X-axis
-Green to represent low risks
-Yellow to represent medium risks
-Red to represent high risks
-Initial Observation
-Based on preliminary scoring, competitive and regulatory risks are expected to fall within the high-risk category due to increasing market competition, digital healthcare expansion, and evolving privacy regulations. These risks will require additional analysis during the final risk assessment phase.
-Next Steps
-The next phase will involve plotting all identified risks on the heat map, validating scores from the risk calculation sheet, and analyzing the distribution of risks across the high, medium, and low-risk zones.
+Updated Heat Map Analysis
+Following the completion of the Risk Calculation Sheet and Risk Register, the Risk Heat Map has been refined using the finalized likelihood and impact scores for the Canada Life acquisition of Santé Circle Health.
+Risk Classification Summary
+The risk assessment identified risks across financial, operational, competitive, reputational, technical, and legal/regulatory categories. Based on the established scoring framework:
+Risk Level	Score Range	Color
+Low	1–8	Green
+Medium	9–14	Yellow
+High	15–25	Red
+Preliminary Heat Map Findings
+The highest-ranked risks identified from the current scoring include:
+Cross-selling revenue synergies falling short of projections (Score 20) 
+Goodwill write-down if synergies do not materialize (Score 16) 
+Key clinical talent leaving after acquisition (Score 16) 
+Competitive pressure from Manulife and Sun Life digital health offerings (Score 16) 
+Legacy system incompatibility between Canada Life and Santé Circle Health (Score 16) 
+Health data privacy breaches and regulatory non-compliance (Score 15) 
+These risks fall within the High-Risk zone and require immediate management attention.
+Heat Map Interpretation
+The concentration of risks within the upper-right quadrant of the heat map indicates that Canada Life faces significant exposure related to integration, competition, technology, and regulatory compliance. The analysis suggests that successful integration planning, data governance, talent retention, and technology modernization will be critical to reducing overall organizational risk.
+
