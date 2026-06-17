@@ -28,6 +28,22 @@ Risk Owner: CISO / Legal
 
 Quantitative Assessment Approach
 Two methods are applied:
-
 Expected Monetary Value (EMV): Industry benchmark probability × financial impact
 Random Forest Classification: Identifies the highest-risk system integration scenarios based on synthetic breach predictor data
+
+Risk R-013: Legacy System Incompatibility
+Qualitative Score: 16 (Likelihood 4 × Impact 4) — HIGH PRIORITY
+Risk: Legacy system incompatibility disrupts data exchange
+Risk Owner: CTO / IT PMO
+
+Quantitative Assessment Approach
+Monte Carlo Simulation: Models financial cost of system downtime during integration
+Gradient Boosting Model: Identifies highest-risk integration scenarios from system compatibility features
+
+Updated Risk Register — Quantitative Results Summary
+Updated Risk Register — Quantitative Assessment Results
+==========================================================================================
+Risk ID     Category                           Risk Description  Qualitative Score Priority                  Method Applied                EMV / Expected Loss (CAD) P10 Outcome (CAD) P90 Outcome (CAD)                          ML Risk Prediction Updated Priority
+  R-003    Financial            Cross-selling synergy shortfall                 20     HIGH          Monte Carlo Simulation        $3,339,094 median revenue at risk        $1,895,004        $5,486,528                                         N/A         CRITICAL
+  R-010 Reputational PHI data breach triggers regulatory action                 15     HIGH             EMV + Random Forest                          $13,080,000 EMV        $7,847,090       $13,485,650          HIGH RISK (21% breach probability)         CRITICAL
+  R-013    Technical              Legacy system incompatibility                 16     HIGH Monte Carlo + Gradient Boosting $3,745,189 expected annual downtime cost        $1,303,977        $8,547,047 HIGH RISK (56% incompatibility probability)             HIGH
