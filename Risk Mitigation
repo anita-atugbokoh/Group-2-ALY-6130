@@ -1,0 +1,74 @@
+Conducted a quantitative risk assessment of Canada Lifes acquisition of Santé Circle Health by analyzing the three highest-priority risks identified during the qualitative assessment phase:
+
+R-003: Cross-Selling Revenue Synergy Shortfall
+R-010: Personal Health Information (PHI) Data Breach
+R-013:Legacy System Incompatibility
+
+The aim was to convert subjective risk ratings into measurable, data-driven estimates using risk modeling, Monte Carlo simulation, machine learning techniques, and Indicators & Warnings (I&W) monitoring frameworks.
+
+Key Methodologies
+
+Monte Carlo Simulation
+
+Used simulations to model uncertainty and estimate potential financial impacts for:
+
+* Revenue synergy achievement
+* System integration downtime costs
+
+Generated probability distributions, expected outcomes, and P10/P90 scenarios for executive decision making.
+
+Expected Monetary Value (EMV) Analysis
+
+Calculated financial exposure for cybersecurity and data breach risks using:
+Industry breach probability benchmarks
+Healthcare breach cost estimate
+Regulatory penalty exposure
+
+Machine Learning Risk Modeling
+
+Applied predictive models to identify leading indicators of risk:
+
+Random Forest Classification
+
+PHI breach risk prediction
+Security control weakness identification
+
+Gradient Boosting
+
+system integration failure prediction
+Technical incompatibility assessment
+
+# Monitoring Indicators
+
+* Broker adoption rates
+* Client campaign conversion rates
+* Revenue achievement versus forecast
+* Customer Net Promoter Score (NPS)
+
+Key predictors of integration failure:
+
+1. API coverage gaps
+2. Data schema mismatches
+3. Manual process dependencies
+
+Monitoring Indicators
+
+* System uptime percentage
+* API error rates
+* Unplanned downtime hours
+* Manual workaround volume
+
+ Skills Demonstrated
+
+* Enterprise Risk Management (ERM)
+* Quantitative Risk Assessment
+* Monte Carlo Simulation
+* Expected Monetary Value (EMV)
+* Risk Register Development
+* Indicators & Warnings (I&W) Analysis
+* Machine Learning for Risk Prediction
+* Business Case Evaluation
+* M&A Risk Analysis
+* Data-Driven Decision Support
+* Cybersecurity Risk Assessment
+* Technology Integration Risk Management
