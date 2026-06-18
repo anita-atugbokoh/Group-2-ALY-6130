@@ -154,3 +154,65 @@ Reference
 
 Committee of Sponsoring Organizations of the Treadway Commission. (2017). Enterprise risk management: Integrating with strategy and performance. COSO.
 
+
+
+
+CSV Data Preparation and Validation
+Prepared by: Abigail Dabanka-Frimpong
+Overview
+As part of the quantitative risk assessment for Canada Life's acquisition of Santé Circle Health, two CSV datasets were reviewed, validated, and prepared for analysis. These datasets provide the foundation for quantitative risk assessment techniques used in the project, including Indicators and Warnings (I&W) monitoring, Monte Carlo simulation, Expected Monetary Value (EMV) calculations, and machine learning-based risk prediction.
+Dataset 1 – Indicators and Warnings (I&W) Dataset
+The first CSV dataset contains key indicators used to monitor early warning signs associated with critical organizational risks.
+Key fields include:
+Risk ID 
+Indicator 
+Warning Threshold 
+Escalation Trigger 
+Data Source 
+Monitoring Frequency 
+This dataset helps management detect when risks are approaching unacceptable levels and when escalation procedures should be initiated.
+Dataset 2 – Quantitative Risk Assessment Dataset
+The second CSV dataset contains the quantitative assessment results for selected high-priority risks.
+Key fields include:
+Risk ID 
+Risk Description 
+Risk Category 
+Qualitative Score 
+Priority Level 
+Quantitative Assessment Method 
+Expected Monetary Value (EMV) 
+Simulation P10 Result 
+Simulation P90 Result 
+Updated Priority Rating 
+This dataset provides measurable estimates of risk exposure and supports data-driven decision-making.
+Data Validation Procedures
+The following validation activities were performed on both datasets:
+Reviewed records for missing values. 
+Verified data types and formatting consistency. 
+Checked for duplicate records. 
+Confirmed consistency of risk identifiers across datasets. 
+Validated score ranges and priority classifications. 
+Reviewed category labels and naming conventions. 
+Ensured compatibility with Google Colab analysis and modeling tools. 
+Contribution to Quantitative Risk Assessment
+The prepared datasets support:
+Indicators and Warnings (I&W) monitoring. 
+Monte Carlo simulation analysis. 
+Expected Monetary Value (EMV) calculations. 
+Machine learning risk prediction models. 
+Risk prioritization and mitigation planning. 
+Quantitative updates to the Risk Register. 
+Expected Outcome
+The validated datasets will support quantitative analysis of high-priority risks, improve risk monitoring capabilities, and provide leadership with data-driven insights for decision-making during the Canada Life and Santé Circle Health integration.
+Next Steps
+The next phase will involve:
+Exploratory Data Analysis (EDA). 
+Quantitative modeling. 
+Visualization of risk trends. 
+Integration of results into the final Risk Register. 
+Support for the Risk Mitigation Report. 
+Reference
+Committee of Sponsoring Organizations of the Treadway Commission. (2017). Enterprise risk management: Integrating with strategy and performance. COSO.
+
+
+
