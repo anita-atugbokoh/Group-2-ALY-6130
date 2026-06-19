@@ -1,0 +1,16 @@
+Risk Calculation and Scoring
+Scoring Methodology
+Each risk is scored on a 1-to-5 scale for both likelihood and impact. The risk score is the product of the two (Likelihood × Impact), giving a range of 1 to 25. Risks scoring 15 to 25 are classified as High priority, 9 to 14 as Medium, and 1 to 8 as Low. 
+Scoring Scale Definitions
+Score	Likelihood	Impact	Likelihood Definition	Impact Definition
+The risk assessment uses a five-point scale to evaluate both likelihood and impact.
+
+Score 1 – Rare / Insignificant: A risk is considered rare when it is highly unlikely to occur because strong controls are already in place. If it does occur, the impact would be insignificant, resulting only in minor inconvenience with no material financial or reputational consequences.
+Score 2 – Unlikely / Minor: A risk is considered unlikely when it may occur occasionally under adverse conditions. The impact would be minor, causing a small financial loss and limited reputational effects.
+Score 3 – Possible / Moderate:A risk is rated as possible when there is a realistic chance of occurrence under current conditions. The impact would be moderate, leading to a manageable financial loss and a moderate reputational effect.
+Score 4 – Likely / Major:A risk is considered likely when it is more likely than not to occur given the current risk environment. The impact would be major, resulting in significant revenue loss and material reputational or regulatory consequences.
+Score 5 – Almost Certain / Catastrophic: A risk is rated as almost certain when it is expected to occur without strong intervention or mitigation measures. The impact would be catastrophic, potentially causing severe financial losses and significant reputational or regulatory damage that could threaten the organizations operations.
+
+Risk Scoring Results
+A table is built to presents all 18 prioritised risks with full scoring, consequence statements, assigned owners, and recommended mitigations, grouped by category.
+
