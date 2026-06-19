@@ -1,0 +1,175 @@
+In-Class Activity: Risk Response Planning
+Canada Life Acquisition of Santé Circle Health
+ALY 6130 – Risk Management Analytics | Group 2
+
+Doris Margaret Zotu-Osei, Abigail Dabanka-Frimpong, and Anita Atugbokoh
+
+Instructions Recap
+Using the risk heat map and the qualitative and quantitative risk assessment developed in our prior activities as a
+guide, this activity develops risk response plans for our top-priority critical risks. For each risk, we identified the
+applicable response strategy — avoidance, mitigation/reduction, transfer, or acceptance — and justified that choice
+based on the nature of the risk, its score, and the controls realistically available to Canada Life during the
+integration period.
+Selected Top-Priority Critical Risks
+From our 18-risk register, we selected the four highest-scoring risks for response planning: R-003 (cross-selling
+revenue synergy shortfall, score 20), R-001 (goodwill write-down, score 16), R-013 (legacy system incompatibility,
+score 16), and R-010 / R-017 (PHI data breach and Law 25/PIPEDA non-compliance, both score 15, treated
+together given their shared root cause). Each of these sits in the high-likelihood, high-impact zone of our heat map
+and represents the risks where Canada Life has the least room for a reactive approach.
+Risk R-003: Cross-Selling Revenue Synergy Shortfall
+R-003 Cross-selling revenue synergies fall short of
+projections Score 20 HIGH MITIGATE
+
+Response Strategy: Mitigation / Reduction
+We chose mitigation over acceptance because this is the highest-scoring risk in our entire register and the financial
+case for the acquisition depends directly on it. Avoidance is not realistic — Canada Life cannot back out of the
+synergy assumptions baked into the deal. Transfer is not applicable here since there is no third party to shift this
+kind of commercial execution risk to through insurance or contract. That leaves mitigation as the only strategy that
+genuinely reduces the probability of the synergy targets being missed, by actively driving broker adoption and client
+uptake rather than passively hoping the projections hold.
+Response Action Owner Timeline Success Measure
+Launch broker incentive programme tied to
+Santé Circle cross-sell volume
+
+Chief Revenue Officer 0–3 months Broker adoption rate
+&gt;38% by month 3
+
+Build and deploy structured cross-sell playbook
+for client-facing teams
+
+Chief Revenue Officer 0–2 months Playbook used in &gt;80%
+of client conversations
+
+Run 90-day client outreach campaign targeting
+top group benefits accounts
+
+Chief Revenue Officer 0–3 months Client uptake rate
+≥18% per campaign
+
+Track synergy revenue against plan on CFO
+dashboard
+
+CFO Ongoing, monthly Revenue ≥70% of Q1
+
+target
+Risk R-001: Goodwill Write-Down if Synergies Don&#39;t Materialise
+R-001 Goodwill write-down required if synergies fail to
+materialise Score 16 HIGH MITIGATE
+
+Response Strategy: Mitigation / Reduction
+This risk is closely tied to R-003, since a goodwill impairment is really the accounting consequence of synergies and
+valuation assumptions not holding up. We selected mitigation rather than acceptance because the financial
+exposure is too large to simply absorb, and rather than transfer because impairment risk on an acquired business is
+not insurable in any meaningful way. An independent valuation and a phased earnout structure directly reduce the
+
+likelihood that Canada Life overpays relative to what Santé Circle Health actually delivers, which is the most
+effective lever available before the deal closes.
+Response Action Owner Timeline Success Measure
+Commission independent third-party valuation
+of Santé Circle Health
+
+CFO Pre-close Valuation variance from
+internal estimate &lt;10%
+
+Structure phased earnout tied to realised
+synergy milestones
+
+CFO / Legal Pre-close Earnout terms signed
+before close
+
+Maintain synergy tracking dashboard reviewed
+monthly by CFO
+
+CFO Ongoing, monthly Variance to plan
+flagged within 30 days
+
+Risk R-013: Legacy System Incompatibility
+R-013 Legacy system incompatibility disrupts data exchange Score 16 HIGH MITIGATE
+
+Response Strategy: Mitigation / Reduction
+Avoidance would mean not integrating the two technology environments at all, which defeats the purpose of the
+acquisition, so that was ruled out. Acceptance was also ruled out given that system incompatibility is cited as one of
+the most common causes of M&amp;A failure, and the impact — operational downtime affecting clinical service delivery
+— is too disruptive to simply tolerate. Mitigation through pre-close IT due diligence and a phased migration
+roadmap is the strategy that actually closes the architectural gap between Canada Life&#39;s enterprise systems and
+Santé Circle&#39;s boutique platforms before it can cause real disruption.
+Response Action Owner Timeline Success Measure
+Conduct comprehensive pre-close IT due
+diligence on both platforms
+
+CTO / IT PMO Pre-close Full system
+compatibility report
+delivered before close
+
+Build API integration layer between Canada
+Life and Santé Circle systems
+
+CTO / IT PMO 0–6 months API coverage gap
+reduced to &lt;10%
+
+Execute phased migration roadmap with
+rollback capability
+
+CTO / IT PMO 0–12 months Unplanned downtime
+&lt;4 hours/month
+Run parallel processing period during cutover COO / IT 3–6 months Data exchange error
+rate &lt;1%
+Risk R-010 / R-017: PHI Data Breach and Law 25 / PIPEDA Non-Compliance
+R-
+010/017
+
+PHI data breach and regulatory non-compliance in
+health data handling Score 15 HIGH MITIGATE +
+TRANSFER
+
+Response Strategy: Mitigation / Reduction, Supported by Transfer
+This is the one risk in our top tier where we landed on a blended strategy rather than a single response. The core
+exposure — protecting personal health information during integration — has to be mitigated directly, because
+avoidance is impossible given that handling PHI is central to what Santé Circle Health does, and acceptance is
+unacceptable given that penalties under Quebec&#39;s Law 25 and PIPEDA can reach CAD $25 million or 4% of global
+revenue. At the same time, we recommend transferring a portion of the residual financial exposure through cyber
+liability insurance, since no combination of technical controls fully eliminates breach risk, and insurance is the
+appropriate tool for the exposure that remains after mitigation is applied.
+Response Action Owner Timeline Success Measure
+Implement role-based access controls and
+AES-256 encryption across PHI systems
+
+CISO Pre-close to 0–3
+months
+
+100% of PHI systems
+covered by RBAC and
+encryption
+
+Deploy 24/7 Security Operations Centre
+monitoring with annual penetration testing
+
+CISO 0–3 months, then
+ongoing
+
+Mean time to detect
+threat &lt;2 hours
+Complete mandatory Privacy Impact DPO / General Pre-close Zero unresolved critical
+
+Assessments and Law 25/PIPEDA compliance
+audit
+
+Counsel audit findings at go-live
+
+Secure or expand cyber liability insurance
+coverage for residual breach exposure
+
+CFO / Legal Pre-close Coverage limit ≥ CAD
+$25M aligned to
+regulatory exposure
+
+Reflection
+Working through this activity as a group, the clearest takeaway was that mitigation dominates our response strategy
+across nearly every top-priority risk — which makes sense given that these are the risks Canada Life chose to take
+on by pursuing this acquisition in the first place. Avoidance was never realistic for any of the four risks, since
+avoiding them would mean not doing the deal at all. Acceptance was also ruled out everywhere except for risks
+scoring in the medium or low band, because the impact at this level is too significant to absorb without an active
+response. The one place we genuinely debated strategy was R-010/R-017, where the group agreed that pure
+mitigation wasn&#39;t enough on its own — no amount of access control and encryption brings breach probability to
+zero, so transferring the residual exposure through insurance felt like the responsible complement rather than a
+substitute for the technical controls.
