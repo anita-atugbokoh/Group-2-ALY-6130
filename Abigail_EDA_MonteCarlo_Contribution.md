@@ -125,3 +125,52 @@ The EDA and Monte Carlo analyses provide quantitative evidence that supports:
 - Continuous monitoring through Key Risk Indicators (KRIs).
 
 These analyses strengthen the overall enterprise risk management framework by transforming uncertainty into measurable and actionable insights.
+
+
+
+
+# Third Edit – Advanced Analysis and Risk Insights
+
+## Interpretation of EDA Results
+
+The exploratory data analysis provided important insights into the overall risk landscape associated with the Canada Life acquisition of Santé Circle Health.
+
+The analysis showed that a significant proportion of identified risks were concentrated within the medium and high priority categories. This indicates that the acquisition environment contains substantial uncertainty and requires active monitoring and management.
+
+The data also revealed that operational, technology, and cybersecurity-related risks had the greatest potential impact on acquisition success. These findings justified the selection of R-003, R-010, and R-013 for detailed quantitative analysis.
+
+## Quantitative Risk Insights
+
+The Monte Carlo simulation results demonstrated that relying solely on qualitative judgment may underestimate organizational exposure.
+
+For R-003 (Cross-Selling Revenue Shortfall), simulation outcomes consistently fell below the projected revenue target, suggesting that expected acquisition synergies may be difficult to achieve under current assumptions.
+
+For R-010 (PHI Data Breach), the estimated financial exposure highlighted the importance of strong cybersecurity governance, regulatory compliance, and incident response capabilities.
+
+For R-013 (Legacy System Incompatibility), the simulation results emphasized the operational risks associated with integrating technology platforms and business processes following acquisition.
+
+## Value of Monte Carlo Simulation
+
+Monte Carlo simulation provided several benefits to the risk assessment process:
+
+- Quantified uncertainty using probability distributions.
+- Produced realistic ranges of possible outcomes.
+- Supported evidence-based decision making.
+- Improved risk prioritization.
+- Enhanced understanding of potential financial exposure.
+
+By evaluating thousands of possible scenarios, the simulation provided a more comprehensive view of risk than traditional point estimates.
+
+## Recommendations Based on Analysis
+
+Based on the EDA and Monte Carlo findings, the following actions are recommended:
+
+1. Continuously monitor high-priority risks through Key Risk Indicators (KRIs).
+2. Strengthen cybersecurity controls and incident response capabilities.
+3. Implement phased technology integration to reduce operational disruption.
+4. Reassess revenue synergy expectations using updated business assumptions.
+5. Continue using quantitative analytics to support strategic decision-making.
+
+## Contribution Summary
+
+The EDA and Monte Carlo simulation activities transformed qualitative risk assessments into measurable and actionable insights. The findings support enterprise risk management objectives by helping leadership understand uncertainty, prioritize resources, and improve acquisition decision-making.
