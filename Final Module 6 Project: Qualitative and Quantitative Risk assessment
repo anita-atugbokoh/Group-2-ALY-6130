@@ -1,0 +1,84 @@
+Qualitative Risk Assessment
+
+Each of the 18 identified risks was evaluated using a qualitative risk assessment matrix. Risks were scored on a scale of 1 to 5 for both likelihood and impact, and the overall risk score was calculated by multiplying the two values. This produced scores ranging from 1 to 25. Risks scoring between 15 and 25 were classified as High, scores between 9 and 14 as Medium, and scores between 1 and 8 as Low. This methodology is consistent with the approach used in Module 3 and aligns with the COSO Enterprise Risk Management (ERM) Framework (COSO, 2017).
+
+Risk Register Summary
+
+The qualitative assessment identified 8 High-priority risks, 8 Medium-priority risks, and 2 Low-priority risks. The High-priority risks require the greatest management attention throughout the acquisition and integration process.
+
+High-Priority Risk Register Summary
+
+The qualitative assessment identified eight High-priority risks that require the greatest management attention during the acquisition and integration process. These risks are summarized below:
+
+R-003 (Financial): Cross-selling revenue synergies fall short of projections (Likelihood = 4, Impact = 5, Risk Score = 20).
+R-001 (Financial): Goodwill write-down if expected synergies do not materialize (Likelihood = 4, Impact = 4, Risk Score = 16).
+R-007 (Competitive): Manulife and Sun Life accelerate digital health bundling, reducing Canada Life's competitive advantage (Likelihood = 4, Impact = 4, Risk Score = 16).
+R-004 (Operational): Key clinical talent leaves following the acquisition (Likelihood = 4, Impact = 4, Risk Score = 16).
+R-013 (Technical): Legacy system incompatibility disrupts data exchange and integration activities (Likelihood = 4, Impact = 4, Risk Score = 16).
+R-002 (Financial): Undisclosed Santé Circle liabilities increase post-close costs (Likelihood = 3, Impact = 5, Risk Score = 15).
+R-017 (Legal/Regulatory): Non-compliance with Quebec's Law 25 and PIPEDA results in legal or regulatory action (Likelihood = 3, Impact = 5, Risk Score = 15).
+R-010 (Reputational): A protected health information (PHI) data breach triggers regulatory action and reputational damage (Likelihood = 3, Impact = 5, Risk Score = 15).
+
+Risk Heat Map
+
+The heat map plots all 18 risks on a 5 × 5 matrix, with likelihood on the vertical axis and impact on the horizontal axis. The visualization clearly shows that the High-priority risks cluster in the upper-right corner of the matrix, representing risks with both high likelihood and high impact. Medium- and Low-priority risks are positioned outside this critical area, making it easier to identify where management attention should be concentrated.
+
+Industry Fusion Analytics: Validating Risk R-007
+
+Industry Fusion Analytics was used to validate Risk R-007 by combining the internal qualitative risk register with external competitive intelligence. A synthetic dataset covering 16 quarters of competitive activity was developed to compare digital health capability scores across Canada Life, Manulife, and Sun Life.
+
+The analysis produced a result that differed from our original qualitative assessment. Canada Life achieved a digital health capability score of 8.54, while the average score for Manulife and Sun Life was 7.08. This indicates that Canada Life currently performs approximately 1.46 points higher than its competitors, contrary to our initial assumption.
+
+One possible explanation is that the original qualitative assessment was influenced by the strong market visibility of Manulife's Vitality platform rather than objective measures of digital capability. Although the synthetic dataset cannot confirm actual competitive performance, it suggests that the competitive threat represented by R-007 may be less severe than originally anticipated.
+
+It is important to note that the competitive panel was generated using synthetic data calibrated to realistic market trends rather than proprietary company data. Therefore, the findings should be viewed as a validation exercise rather than definitive evidence. The analysis demonstrates how Industry Fusion Analytics can be used to challenge qualitative assumptions and identify risks that should be revisited when more reliable market intelligence becomes available.
+
+Candidates for Further Quantitative Analysis
+
+Among the eight High-priority risks, three were selected for detailed quantitative analysis using the Indicators and Warnings technique:
+
+R-003 – Cross-selling revenue synergy shortfall
+R-010 – PHI data breach
+R-013 – Legacy system incompatibility
+
+These risks were selected because they had measurable proxy variables suitable for modelling, represented different risk categories, and were expected to benefit most from quantitative analysis. The remaining High-priority risks (R-001, R-002, R-004, R-007, and R-017) will continue to be monitored using the qualitative risk register and Key Risk Indicator (KRI) framework.
+
+Quantitative Risk Assessment
+
+Because proprietary operational data from Canada Life and Santé Circle Health were unavailable, all quantitative analyses were performed using synthetic datasets designed to represent realistic industry conditions. The datasets were calibrated using publicly available benchmarks, including the Ponemon Institute's (2023) breach probability research, IBM Security's (2023) average breach cost estimates, and assumptions developed during the Module 3 risk assessment. The complete data generation process and modelling code are available in the accompanying GitHub repository.
+
+R-003: Cross-Selling Revenue Synergy Shortfall
+
+The financial success of the proposed acquisition depends heavily on Canada Life's ability to cross-sell Santé Circle Health's disability management services to its existing group benefits clients. To evaluate this assumption, a synthetic dataset containing 240 cross-selling campaign observations was generated. Broker adoption rates, client uptake rates, and revenue per converted client were sampled from triangular probability distributions representing realistic outcomes for a Canadian insurer introducing a new service.
+
+The simulated campaigns produced a mean revenue of CAD $194,494, with a standard deviation of CAD $128,305 and a 95% confidence interval ranging from CAD $178,179 to CAD $210,809.
+
+When these campaign-level results were scaled to approximately 12,000 eligible group benefits clients, the projected annual synergy revenue was CAD $3.47 million, substantially below the CAD $18 million Year 1 target included in the acquisition business case.
+
+Monte Carlo analysis confirmed this finding. The expected financial shortfall relative to the business case was CAD $14.46 million, with a standard deviation of CAD $1.41 million and a 95% Value at Risk (VaR) of CAD $16.39 million. Across all 10,000 simulation iterations, the probability of failing to achieve the Year 1 revenue target was 100%.
+
+These findings indicate that the projected synergy target is unlikely to be achieved under realistic operating conditions and should be reconsidered before the acquisition proceeds.
+
+R-010: PHI Data Breach – Machine Learning Prediction
+
+To estimate the likelihood of a protected health information (PHI) breach during system integration, a Random Forest classifier was trained using a synthetic dataset containing 500 integration scenarios.
+
+The model incorporated variables aligned with the Key Risk Indicators identified in the risk response plan, including access control gaps, employee security training completion, third-party API vetting, data schema mismatches, incident response maturity, and encryption coverage.
+
+The Random Forest achieved 88% accuracy, balanced precision and recall of approximately 0.88–0.89, and a ROC-AUC of 0.963. Five-fold cross-validation produced an average accuracy of 93.0% (±1.3%), indicating consistent predictive performance.
+
+When applied to a scenario representing Canada's current integration readiness, including moderate access control gaps, 72% security training completion, 58% third-party API vetting, and moderate incident response maturity, the model estimated a 48.5% probability of a PHI breach.
+
+This result places the organization near the decision boundary between Low- and High-risk classifications, suggesting that improvements in third-party API vetting and incident response planning could substantially reduce breach risk before integration begins.
+
+R-013: Legacy System Incompatibility – Machine Learning Prediction
+
+Risk R-013 was analysed using a Gradient Boosting classifier trained on the same synthetic integration dataset. Predictor variables included API coverage gaps, data schema mismatches, manual workaround volume, legacy system age, integration testing pass rates, and IT staff readiness.
+
+The model achieved 89% accuracy, a ROC-AUC of 0.964, and a five-fold cross-validation accuracy of 89.2% (±2.0%), indicating reliable predictive performance.
+
+Feature importance analysis identified API coverage gaps and data schema mismatches as the strongest predictors of system incompatibility.
+
+When the model evaluated Canada's current integration scenario, consisting of a 35% API coverage gap, 11 data schema mismatches, 78 manual workarounds per week, and a 12-year-old legacy system, it predicted a 94.0% probability of significant system incompatibility.
+
+This result suggests that technical integration risk is substantially higher than indicated by the original qualitative assessment. Consequently, additional pre-close technical due diligence, expanded integration testing, and a phased migration strategy are recommended to reduce implementation risk.
